@@ -1,5 +1,5 @@
-# cypress-infrastructure-example
-Project to practice automation testing configuration around the Cypress framework.
+# Playwright-infrastructure-example
+Project to practice automation testing configuration around the Playwright framework.
 
 Create React App is used as application under test 
 
